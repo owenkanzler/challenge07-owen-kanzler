@@ -2,7 +2,7 @@
 
 ## Description
 
-Challeneg 7 for the UMN bootcamp. Here I created a nodeJS app that creates a custom README from the terminal using the inquier npm package, and the built in fs package to write the information to the file.
+Challenge 7 for the UMN bootcamp. Using nodeJS to create a custom readme using the inquirer npm package to get the content in the terminal and using the built in fs package to write the information to the file.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ n/a
 
 ## Assets
 
-[Video Demo](./assets/challenge07-video.webm)
+[!video Demo](./assets/challenge07-video.gif)
 
 ## Usage
 
