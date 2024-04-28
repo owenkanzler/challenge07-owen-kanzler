@@ -19,7 +19,7 @@ n/a
 
 ## Assets
 
-[!video Demo](./assets/challenge07-video.gif)
+![Demo](./assets/challenge07-video.gif)
 
 ## Usage
 
