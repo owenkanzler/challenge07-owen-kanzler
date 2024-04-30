@@ -19,7 +19,8 @@ n/a
 
 ## Assets
 
-![Demo](./assets/challenge07-video.gif)
+Demo video:
+https://drive.google.com/file/d/1QvP3Le3mpCDvSuTEUm-z32h21vc8JhgM/view?usp=sharing
 
 ## Usage
 
